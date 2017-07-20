@@ -1,0 +1,11 @@
+- Remember copy jar lib and config file eshop.cfg.xml
+- Database EShopV10 asked me via email: dao.nbm1502@gmail.com
+- Create and config entity classes base on tables in database
+- Set relationship between classes base on relationship between tables
+- Generate setter, getter
+- Remember create, config port 80 to 99 and start server apache tomcat before create project
+- If forget create and start server apache tomcat before create project,
+do some step like below:
++ Create create, config port 80 to 99 and start server
++ Right click at project -> Properties
++ Choose Target Runtime -> Check at Apache Tomcat -> Apply -> OK
